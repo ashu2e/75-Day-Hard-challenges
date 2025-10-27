@@ -24,3 +24,27 @@ Throughout the challenge, I’ll be exploring and practicing:
 🗄️ SQL — data management and queries
 
 ⚡ Plus other technologies as I progress
+
+📅 Daily Structure
+
+Each day will include:
+
+✅ Practice problems or coding exercises
+
+✅ Small projects or mini-tasks
+
+✅ Notes and key takeaways
+
+✅ Clean and commented code
+
+🏁 Goals
+
+Build the habit of coding daily
+
+Strengthen logical and analytical skills
+
+Learn new programming concepts
+
+Build a solid portfolio of projects
+
+Stay consistent and accountable
